@@ -61,3 +61,4 @@ if __name__ == '__main__':
 
     print(write2txt_file(output_file_1, text_correction(input_file)))
     print(write2docx(output_file_2, text_correction(input_file)))
+a
